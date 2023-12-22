@@ -7,5 +7,3 @@ Our Team :
 5. (CC) C296BSX3400 – Khurrotul ‘Uyun
 6. (MD) A296BSY2704 – Raffi Abdillah Putra Alisia
 7. (MD) A359BSY1978 – Daniel Kurnia
-
-[Our App](https://github.com/raffiabdillah/MindSpace)
